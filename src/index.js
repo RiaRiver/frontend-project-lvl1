@@ -1,28 +1,26 @@
-import readlineSync from 'readline-sync';
+import { input, output } from './consoleIO.js';
 
 export default (gameDescription, generateRoundData) => {
   const roundsToWin = 3;
-  let roundsCount = 0;
 
-  console.log('Welcome to the Brain Games!');
-  const playerName = readlineSync.question('May I have your name? ');
-  console.log(`Hello, ${playerName}!`);
-  console.log(gameDescription);
+  output('Welcome to the Brain Games!');
+  const playerName = input('May I have your name? ');
+  output(`Hello, ${playerName}!`);
+  output(gameDescription);
 
-  while (roundsCount < roundsToWin) {
+  for (let roundsCount = 0; roundsCount < roundsToWin; roundsCount += 1) {
     const [question, correctAnswer] = generateRoundData();
-    console.log(`Question: ${question}`);
-    const playerAnswer = readlineSync.question('Your answer: ');
+    output(`Question: ${question}`);
+    const playerAnswer = input('Your answer: ');
 
     if (playerAnswer !== correctAnswer) {
-      console.log(`'${playerAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
-      console.log(`Let's try again, ${playerName}!`);
+      output(`'${playerAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
+      output(`Let's try again, ${playerName}!`);
       return;
     }
 
-    console.log('Correct!');
-    roundsCount += 1;
+    output('Correct!');
   }
 
-  console.log(`Congratulations, ${playerName}!`);
+  output(`Congratulations, ${playerName}!`);
 };
