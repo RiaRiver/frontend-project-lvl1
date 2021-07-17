@@ -12,4 +12,4 @@
 [![Brain-calc asciicast](https://asciinema.org/a/JyC9ipEtOJ6m0nRG2ANsDWcH2.svg)](https://asciinema.org/a/JyC9ipEtOJ6m0nRG2ANsDWcH2)
 
 #### Brain-gcd demonstration
-[![asciicast](https://asciinema.org/a/F5QnMo0RSzS2g7kwIHdK8PD3R.svg)](https://asciinema.org/a/F5QnMo0RSzS2g7kwIHdK8PD3R)
+[![Brain-gcd asciicast](https://asciinema.org/a/F5QnMo0RSzS2g7kwIHdK8PD3R.svg)](https://asciinema.org/a/F5QnMo0RSzS2g7kwIHdK8PD3R)
