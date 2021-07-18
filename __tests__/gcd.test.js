@@ -9,6 +9,8 @@ describe('greatest common divisor', () => {
     expect(getGcd(16, 40)).toBe(8);
     expect(getGcd(40, 16)).toBe(8);
     expect(getGcd(40, 10)).toBe(10);
+    expect(getGcd(-20, 16)).toBe(4);
+    expect(getGcd(24, -64)).toBe(8);
   });
 
   test('unique cases', () => {
