@@ -1,7 +1,7 @@
-import readlineSync from 'readline-sync';
+import { input, output } from './consoleIO.js';
 
 export default () => {
-  console.log('Welcome to the Brain Games!');
-  const playerName = readlineSync.question('May I have your name? ');
-  console.log(`Hello, ${playerName}!`);
+  output('Welcome to the Brain Games!');
+  const playerName = input('May I have your name? ');
+  output(`Hello, ${playerName}!`);
 };
