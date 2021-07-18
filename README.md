@@ -6,16 +6,16 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/3b1767f2b4d6f9679d89/maintainability)](https://codeclimate.com/github/RiaRiver/frontend-project-lvl1/maintainability)
 
 #### Brain-even demonstration
-[![Brain-even asciicast](https://asciinema.org/a/5JdBjgsvIIWPxw2ZZ0iR1Xbw2.svg)](https://asciinema.org/a/5JdBjgsvIIWPxw2ZZ0iR1Xbw2)
+[![Brain-even asciicast](https://asciinema.org/a/ugDNuFWHYm00YuGcNarEGkfwo.svg)](https://asciinema.org/a/ugDNuFWHYm00YuGcNarEGkfwo)
 
 #### Brain-calc demonstration
-[![Brain-calc asciicast](https://asciinema.org/a/JyC9ipEtOJ6m0nRG2ANsDWcH2.svg)](https://asciinema.org/a/JyC9ipEtOJ6m0nRG2ANsDWcH2)
+[![Brain-calc asciicast](https://asciinema.org/a/CkEZG0ZgR0dzAdk3IUJQBKlHG.svg)](https://asciinema.org/a/CkEZG0ZgR0dzAdk3IUJQBKlHG)
 
 #### Brain-gcd demonstration
-[![Brain-gcd asciicast](https://asciinema.org/a/F5QnMo0RSzS2g7kwIHdK8PD3R.svg)](https://asciinema.org/a/F5QnMo0RSzS2g7kwIHdK8PD3R)
+[![Brain-gcd asciicast](https://asciinema.org/a/W0wbU4xsrNuaQn2aK8O62xSFt.svg)](https://asciinema.org/a/W0wbU4xsrNuaQn2aK8O62xSFt)
 
 #### Brain-progression demonstration
-[![Brain-progression asciicast](https://asciinema.org/a/kQnFWcT1sKIW91Gp6XKsU63TO.svg)](https://asciinema.org/a/kQnFWcT1sKIW91Gp6XKsU63TO)
+[![Brain-progression asciicast](https://asciinema.org/a/A9jFUfn6a2JN3pWKbC9r7ISSL.svg)](https://asciinema.org/a/A9jFUfn6a2JN3pWKbC9r7ISSL)
 
 #### Brain-prime demonstration
-[![Brain-prime asciicast](https://asciinema.org/a/WNYfzWNPeWXNxmC4i8jdfl1ZP.svg)](https://asciinema.org/a/WNYfzWNPeWXNxmC4i8jdfl1ZP)
+[![Brain-prime asciicast](https://asciinema.org/a/s3CafzLh9Nr7ZZ1uCIOwwfwq6.svg)](https://asciinema.org/a/s3CafzLh9Nr7ZZ1uCIOwwfwq6)
