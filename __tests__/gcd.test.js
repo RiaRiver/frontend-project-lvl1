@@ -1,3 +1,4 @@
+/* eslint-env jest */
 import { getGcd } from '../src/games/gcd-game.js';
 
 describe('greatest common divisor', () => {

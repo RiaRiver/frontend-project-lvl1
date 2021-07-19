@@ -1,3 +1,4 @@
+/* eslint-env jest */
 import { isPrime } from '../src/games/prime-game.js';
 
 describe('isPrime', () => {
